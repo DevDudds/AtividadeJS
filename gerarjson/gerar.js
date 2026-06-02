@@ -1,6 +1,6 @@
 const container = document.getElementById("container");
 let id = 0;
-fetch("./vocaloid.json")
+fetch("vocaloid.json")
 .then(resp => resp.json())
 .then(vocaloid => {
     vocaloid.map(personagem =>{
