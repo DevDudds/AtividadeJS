@@ -1,0 +1,30 @@
+{
+    "vocaloids": [
+
+    {
+        "nome": "Hatsune Miku",
+        "imagem": "../img/miku.jpeg",
+        "popularidade": 100
+    },
+    {
+        "nome": "Kagamine Rin",
+        "imagem": "../img/kagamine_rin.jpeg",
+        "popularidade": 90
+    },
+    {
+        "nome": "Kagamine Len",
+        "imagem": "../img/len.jpeg",
+        "popularidade": 88
+    },
+    {
+        "nome": "Megurine Luka",
+        "imagem": "../img/megurine.jpeg",
+        "popularidade": 85
+    },
+    {
+        "nome": "KAITO",
+        "imagem": "../img/kaito.jpeg",
+        "popularidade": 75
+    }
+    ]
+}
