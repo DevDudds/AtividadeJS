@@ -1,6 +1,4 @@
-{
-    "vocaloids": [
-
+[
     {
         "nome": "Hatsune Miku",
         "imagem": "../img/miku.jpeg",
@@ -26,5 +24,4 @@
         "imagem": "../img/kaito.jpeg",
         "popularidade": 75
     }
-    ]
-}
+]

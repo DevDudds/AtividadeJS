@@ -53,7 +53,7 @@ body {
 
 .card {
     min-width: 300px;
-    min-height: 300px;
+    max-height: 300px;
     height: auto;
     width: auto;
     border: 1px gray solid;
